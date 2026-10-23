@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>我的私人思维播客</title>
+    <link>https://github.com</link>
+    <language>zh-cn</language>
+    <description>由 NotebookLM 自动生成的个人学习与复盘播客</description>
+    <itunes:author>Pan</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://raw.githubusercontent.com/gist/octocat/617fc8039425b06d24ec/raw/7d6a50638c4c7764d048d0ab47c8702c2e0cfab5/octocat-icon.png"/>
+    <itunes:category text="Education"/>
+
+    <!-- 第一集音频开始 -->
+    <item>
+      <title>第 1 期：知识库对谈测试</title>
+      <description>测试音频自动化闭环</description>
+      <pubDate>Thu, 22 Oct 2026 12:00:00 +0800</pubDate>
+      <enclosure url="https://github.com/ChailePan/Pan-podcast/releases/download/V1.0/PNP.NPN.mp4" 
+                 length="10485760" 
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-001</guid>
+    </item>
+    <!-- 第一集音频结束 -->
+
+  </channel>
+</rss>
