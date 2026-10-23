@@ -17,7 +17,7 @@
       <title>第 1 期：知识库对谈测试</title>
       <description>测试音频自动化闭环</description>
       <pubDate>Thu, 22 Oct 2026 12:00:00 +0800</pubDate>
-      <enclosure url="https://github.com/ChailePan/Pan-podcast/releases/download/V1.0/PNP.NPN.mp4" 
+     <enclosure url="https://github.com/ChailePan/Pan-podcast/blob/main/灵芝鸡汤放微盐.mp4" 
                  length="10485760" 
                  type="video/mp4"/>
       <guid isPermaLink="false">episode-001</guid>
